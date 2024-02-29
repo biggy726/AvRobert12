@@ -1,0 +1,14 @@
+ <dict>
+    <key>baseURL</key>
+    <string>https://github.com/biggy726/AvRobert12/blob/76d1808aa6e4f0fc5148df48f130853e51c1321c/pic1.jpg</string>
+    <key>shouldUseJSON</key>
+    <false/>
+    <key>shouldDisplayName</key>
+    <true/>
+    <key>groupLabel</key>
+    <string>test</string>
+    <key>reloadContentTimer</key>
+    <integer>720</integer>
+    <key>rotateImageTimer</key>
+    <integer>30</integer>
+  </dict>
